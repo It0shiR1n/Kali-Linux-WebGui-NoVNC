@@ -6,5 +6,5 @@ A simple implementation of VNC and NOVNC to use kali linux inside a browser usin
 
 Use mode:
 
-sudo ./deploy start
-sudo ./deploy stop
+sudo ./deploy start <br>
+sudo ./deploy stop <br>
